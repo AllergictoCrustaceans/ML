@@ -11,5 +11,5 @@ Some techniques used throughout these notebooks are:
 - Transfer Learning
 - Data Augmentation
 - K-means clustering
-- Downsampling and upweighting imbalanced datasets
+- Oversampling imbalanced datasets
 - Regularization
